@@ -1,0 +1,19 @@
+{
+  "name": "crypto-rsa",
+  "version": "1.0.0",
+  "description": "An implementation of RSA with Node crypto",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node crypto-rsa.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Estefanía García Gallardo",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.11.0"
+  },
+  "dependencies": {
+    "crypto": "^1.0.1"
+  }
+}
